@@ -19,6 +19,10 @@ I was tasked with generating all of the tables and figures needed for technical 
 
 **Project Tasks**
 
-Before analyzing the data, I had to clean the data by removing any duplicate Mouse Id time points from the data set. Next, I created a summary statistics table for each drug regimen that included the mean, median, variance, standard deviation, and SEM. 
+Before analyzing the data, I had to clean the data by removing any duplicate Mouse Id time points from the data set. 
+
+![](C:\Users\erinc\Desktop\BootCamp\Homework\matplotlibhw\matplotlib-challenge\Images\clean_mice_data.PNG)
+
+Next, I created a summary statistics table for each drug regimen that included the mean, median, variance, standard deviation, and SEM. 
 
 Using Panda's DataFrame.plot() and Matplotlib's pyplot, I created a pie plot and a bar plot to show different measurements of data. Next, I calculated the quartiles and IQR of each treatment regimen and created box plots to show the figures. Finally, I created scatter plots for a mouse that was treated with Capomulin and calculated the correlation coefficient and linear regression model between the mouse's weight and average tumor volume for the treatment. 
