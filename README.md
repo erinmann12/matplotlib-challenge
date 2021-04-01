@@ -21,7 +21,7 @@ I was tasked with generating all of the tables and figures needed for technical 
 
 Before analyzing the data, I had to clean the data by removing any duplicate Mouse Id time points from the data set. 
 
-![](C:\Users\erinc\Desktop\BootCamp\Homework\matplotlibhw\matplotlib-challenge\Images\clean_mice_data.PNG)
+![https://github.com/erinmann12/matplotlib-challenge/blob/main/Images/clean_mice_data.PNG](C:\Users\erinc\Desktop\BootCamp\Homework\matplotlibhw\matplotlib-challenge\Images\clean_mice_data.PNG)
 
 Next, I created a summary statistics table for each drug regimen that included the mean, median, variance, standard deviation, and SEM. 
 
