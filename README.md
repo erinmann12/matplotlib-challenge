@@ -14,6 +14,8 @@ I was tasked with generating all of the tables and figures needed for technical 
 2. Pandas
 3. Matplotlib
 4. Jupyter Notebook
+5. Numpy
+6. SciPy
 
 **Project Tasks**
 
