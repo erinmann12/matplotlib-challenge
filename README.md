@@ -25,4 +25,20 @@ Before analyzing the data, I had to clean the data by removing any duplicate Mou
 
 Next, I created a summary statistics table for each drug regimen that included the mean, median, variance, standard deviation, and SEM. 
 
-Using Panda's DataFrame.plot() and Matplotlib's pyplot, I created a pie plot and a bar plot to show different measurements of data. Next, I calculated the quartiles and IQR of each treatment regimen and created box plots to show the figures. Finally, I created scatter plots for a mouse that was treated with Capomulin and calculated the correlation coefficient and linear regression model between the mouse's weight and average tumor volume for the treatment. 
+![](https://github.com/erinmann12/matplotlib-challenge/blob/main/Images/summary_stats_groupby.PNG)
+
+Using Panda's DataFrame.plot() and Matplotlib's pyplot, I created a pie plot and a bar plot to show different measurements of data. 
+
+![](https://github.com/erinmann12/matplotlib-challenge/blob/main/Images/plotlypie.PNG)
+
+![](https://github.com/erinmann12/matplotlib-challenge/blob/main/Images/pandasbar.PNG)
+
+Next, I calculated the quartiles and IQR of each treatment regimen and created box plots to show the figures. Finally, I created scatter plots for a mouse that was treated with Capomulin and calculated the correlation coefficient and linear regression model between the mouse's weight and average tumor volume for the treatment. 
+
+![](https://github.com/erinmann12/matplotlib-challenge/blob/main/Images/regression.PNG)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Erin Mann
+
+erin.mann2019@gmail.com
